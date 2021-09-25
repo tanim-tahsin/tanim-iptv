@@ -31,14 +31,27 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 ,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 ,Ekusey TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 ,Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 ,Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1 ,Asian TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:-1 ,Desh TV
+http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+#EXTINF:-1 ,Ekattor TV
+http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
+
+#EXTINF:-1 ,Akash 
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+#EXTINF:-1 ,Colors Bangla
+http://10.16.100.204:8082/hls/akash_aat_local.m3u8
+#EXTINF:-1 ,Sony Aaath
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+#EXTINF:-1 ,Star Jalsha
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+#EXTINF:-1 ,
+
 
 #EXTINF:-1 ,MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
@@ -53,6 +66,11 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 ,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?token=soheliptv01826655778
+#EXTINF:-1 ,Wow Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+
+#EXTINF:-1 ,Peace Tv
+http://10.16.100.203:8082/bangla/PeachTV_riptv.m3u8
 
 #EXTINF:-1 ,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?token=soheliptv01826655778
@@ -66,3 +84,14 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 ,9X Jhakaas 
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 ,Dhoom Music
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
+
+#EXTINF:-1 ,Sony Ten 1
+http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8
+#EXTINF:-1 ,Sony Ten 2
+http://10.16.100.207:8082/sports/soNy_Ten2_riptv.m3u8
+#EXTINF:-1 ,Sony Ten 3
+http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
+#EXTINF:-1 ,Sony max HD
+http://bciptv.net:8082/setmax/tracks-v1a1/mono.m3u8?token=d2c54bce2cd8ef9bb7377edc13e6b2a7e61b7d8e-0e5194792bf5b01a9ff2b8d4a6cccd1a-1632600780-1632589980
