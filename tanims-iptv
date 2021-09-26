@@ -49,37 +49,81 @@ http://stream.dhakaflix.com:8081/hls/ntv.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuW6ENm.png",satv
 http://stream.dhakaflix.com:8081/hls/satv.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoQRv69.png",mohonatv
-http://stream.dhakaflix.com:8081/hls/mohonatv.m3u8/chunks.m3u8?
+http://stream.dhakaflix.com:8081/hls/mohonatv.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDdAgSc.png",Jamuna TV
+http://stream.dhakaflix.com:8081/hls/jamunatv.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7pADfNA.png",RTV
+http://stream.dhakaflix.com:8081/hls/rtv.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
+http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XsbEJ3J.png",gaanbangla
+http://stream.dhakaflix.com:8081/hls/gaanbangla.m3u8/chunks.m3u8
 
 
-#EXTINF:-1 ,Cartoon Network Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png",zeebangla
+http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png",colorsbangla
+http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BreYDZ.png",starjolsha
+http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png",Sonyaath
+http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVTS77H.png",Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 ,MBC 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2VdnObL.png",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5APemvR.png", Sony YAY Bangla
+http://stream.dhakaflix.com:8081/sony/yay/chunks.m3u8
 
 
 
-#EXTINF:-1 ,Maha Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png",jolshamovies
+http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21sr1tp.png",sonymax
+http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfri7KP.png",cinemaplex
+http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9pdeVO.png",Star Gold HD
+http://stream.dhakaflix.com:8081/&priveHD/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6eN7Yu.png",UTV Action
+http://stream.dhakaflix.com:8081/live/utvaction/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFuzCV3.png",Star Movies
+http://stream.dhakaflix.com:8081/live/moviesstar/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9Wc2mx.png",Sony Pix Hindi
+http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8 hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1oza3yl.png",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 ,Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 ,Box Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txzG0ai.png",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 ,Bflix Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9P5Qd7S.png",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 ,Manoranjan Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPriCft.png",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?token=soheliptv01826655778
 
 
-#EXTINF:-1 ,Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?token=soheliptv01826655778
-#EXTINF:-1 ,9X Jalwa
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Leqpvxr.png",discovary Bangla
+http://stream.dhakaflix.com:8081/live/discovary/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVp30Gy.png",National Geo Bangla
+http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ectqbyl.png",National Wild Hindi
+http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0m0RNL5.png",TLC Hindi
+http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UA6BNX9.png",9X Jalwa 
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 ,9XM 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYYGX5A.png",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
-#EXTINF:-1 ,Sangeet Bangla 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kw5ycfq.png",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 ,musical Music 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcqrowd.png",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 ,9X Jhakaas 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDTYRj3.png",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
