@@ -7,8 +7,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hb7HBWK.png",Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0uUNtGA.png",Boishakhi
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y5rm4zM.png",BTV World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKQnb7S.png",Channel 9
@@ -28,7 +27,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y76e6La.png",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uUNtGA.png",Boishakhi TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcdrWlJ.png",Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sX9U7Y.png",Ekushey TV
@@ -54,11 +53,9 @@ http://stream.dhakaflix.com:8081/hls/mohonatv.m3u8/chunks.m3u8
 http://stream.dhakaflix.com:8081/hls/jamunatv.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7pADfNA.png",RTV
 http://stream.dhakaflix.com:8081/hls/rtv.m3u8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
-http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsbEJ3J.png",gaanbangla
 http://stream.dhakaflix.com:8081/hls/gaanbangla.m3u8/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png",zeebangla
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8 
