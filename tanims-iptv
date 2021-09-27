@@ -78,72 +78,72 @@ https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png",zeebangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png" group-title="Indian Bangla",zeebangla
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png",colorsbangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png" group-title="Indian Bangla",colorsbangla
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6BreYDZ.png",starjolsha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BreYDZ.png" group-title="Indian Bangla",starjolsha
 http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png",Sonyaath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png" group-title="Indian Bangla",Sonyaath
 http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVTS77H.png",Cartoon Network Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVTS77H.png" group-title="Kids",Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2VdnObL.png",MBC 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2VdnObL.png" group-title="Kids",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5APemvR.png", Sony YAY Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5APemvR.png" group-title="Kids", Sony YAY Bangla
 http://stream.dhakaflix.com:8081/sony/yay/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png",jolshamovies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png" group-title="Movies",jolshamovies
 http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21sr1tp.png",sonymax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21sr1tp.png" group-title="Movies",sonymax
 http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kfri7KP.png",cinemaplex
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfri7KP.png" group-title="Movies",cinemaplex
 http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9pdeVO.png",Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9pdeVO.png" group-title="Movies",Star Gold HD
 http://stream.dhakaflix.com:8081/&priveHD/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6eN7Yu.png",UTV Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6eN7Yu.png" group-title="Movies",UTV Action
 http://stream.dhakaflix.com:8081/live/utvaction/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UFuzCV3.png",Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFuzCV3.png" group-title="Movies",Star Movies
 http://stream.dhakaflix.com:8081/live/moviesstar/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9Wc2mx.png",Sony Pix Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9Wc2mx.png" group-title="Movies",Sony Pix Hindi
 http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8 hindi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1oza3yl.png",Maha Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1oza3yl.png" group-title="Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/txzG0ai.png",Box Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txzG0ai.png" group-title="Movies",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9P5Qd7S.png",Bflix Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9P5Qd7S.png" group-title="Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPriCft.png",Manoranjan Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPriCft.png" group-title="Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KpSCQvc.png",sony tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpSCQvc.png" group-title="Movies",sony tv
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Leqpvxr.png",discovary Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Leqpvxr.png" group-title="Documentary",discovary Bangla
 http://stream.dhakaflix.com:8081/live/discovary/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVp30Gy.png",National Geo Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVp30Gy.png" group-title="Documentary",National Geo Bangla
 http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ectqbyl.png",National Wild Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ectqbyl.png" group-title="Documentary",National Wild Hindi
 http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0m0RNL5.png",TLC Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0m0RNL5.png" group-title="Documentary" ,TLC Hindi
 http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mPkRUxO.png",sony 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPkRUxO.png" group-title="Sports 01",sony 1
 http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png",sony 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png" group-title="Sports 01",sony 2
 http://10.16.100.207:8082/sports/soNy_Ten2_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png",sony 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png" group-title="Sports 01",sony 3
 http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png",star sports2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png" group-title="Sports 01",star sports2
 http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png",t sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png" group-title="Sports 01",t sports
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
 
