@@ -174,7 +174,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e19Lwqn.png" group-title="server2",Anando TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcsGVIz.png" group-title="server2",ATN News 
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
 XTINF:-1 tvg-logo="https://i.imgur.com/lcsGVIz.png" group-title="server2",ATN News 
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
@@ -182,12 +182,10 @@ http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTkys9t.png" group-title="server2",CHANNEL 24
 http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HFMlldq.png",Maasranga
 #EXTINF:-1 tvg-logo="https://i.imgur.com/POu4Hmt.png" group-title="server2",My TV HD
 http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQx6z25.png" group-title="server2",News 24
 http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X4L02md.png",Sangsad TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLNobU4.png" group-title="server2",Somoy TV
 http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0uUNtGA.png",Boishakhi TV
