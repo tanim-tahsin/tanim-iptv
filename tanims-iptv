@@ -133,6 +133,18 @@ http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png",sony 2
+http://10.16.100.207:8082/sports/soNy_Ten2_riptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png",sony 3
+http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png",star sports2
+http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png",star sports2
+http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png",t sports
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UA6BNX9.png",9X Jalwa 
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYYGX5A.png",9XM
