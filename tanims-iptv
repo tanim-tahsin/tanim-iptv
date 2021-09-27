@@ -147,13 +147,14 @@ http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UA6BNX9.png",9X Jalwa 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UA6BNX9.png" group-title="Song",9X Jalwa 
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYYGX5A.png",9XM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYYGX5A.png" group-title="Song",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kw5ycfq.png",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kw5ycfq.png" group-title="Song",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcqrowd.png",Music India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcqrowd.png" group-title="Song",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDTYRj3.png",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDTYRj3.png" group-title="Song",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
