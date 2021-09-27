@@ -73,6 +73,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5nztgp5.png",Cumilla 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpLcLxC.png",Rang TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyrFubo.png",channel 69
+https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
 
@@ -118,7 +120,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPriCft.png",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpSCQvc.png",sony tv
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Leqpvxr.png",discovary Bangla
@@ -132,12 +135,11 @@ http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPkRUxO.png",sony 1
+http://10.16.100.207:8082/sports/sTen_1_riptv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png",sony 2
 http://10.16.100.207:8082/sports/soNy_Ten2_riptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png",sony 3
-http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png",star sports2
 http://10.16.100.207:8082/sports/SoNy_Ten_3_riptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png",star sports2
 http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
