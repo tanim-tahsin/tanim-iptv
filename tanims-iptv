@@ -181,8 +181,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
-http://stream.dhakaflix.com:8081/live/GTV-4K/chunks.m3u8
-#EXTIN:-1 tvg-logo="https://i.imgur.com/lcsGVIz.png" group-title="server2",ATN News 
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bo0B6i9.png" group-title="server2",Banglavision
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
