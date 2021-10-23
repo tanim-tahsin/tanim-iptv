@@ -181,8 +181,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
-http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
-http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=09103db613b47b0ff1c3c4c0519ccb84b3305d2b-ce13344467950bbd5db3b64f1e9135d3-1635012200-1635001400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bo0B6i9.png" group-title="server2",Banglavision
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTkys9t.png" group-title="server2",CHANNEL 24
