@@ -27,9 +27,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tkuefu7.png",RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K39PpUy.png",NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7pADfNA.png",RTV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7e9qU6d.png",deeptotv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
+http://103.40.226.94:8080/hls/channel_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K39PpUy.png" group-title="server2",NTV
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMA8RBc.png" group-title="server2",DBC-NEWS
 http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDpgZ3H.png" group-title="server2",Ekattor-tv
@@ -41,8 +49,7 @@ https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.
 http://stream.dhakaflix.com:8081/hls/ruposhibangla.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePlXh20.png",atnbangla
 http://stream.dhakaflix.com:8081/hls/atnbangla.m3u8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7e9qU6d.png",deeptotv
-http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XhunkvL.png",nagorik
 http://stream.dhakaflix.com:8081/hls/nagorik.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umZJCOB.png",Independent Tv
@@ -53,8 +60,7 @@ http://stream.dhakaflix.com:8081/hls/satv.m3u8/chunks.m3u8
 http://stream.dhakaflix.com:8081/hls/mohonatv.m3u8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDdAgSc.png",Jamuna TV
 http://stream.dhakaflix.com:8081/hls/jamunatv.m3u8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7pADfNA.png",RTV
-http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsbEJ3J.png",gaanbangla
 http://stream.dhakaflix.com:8081/hls/gaanbangla.m3u8/chunks.m3u8
 
@@ -181,8 +187,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635864086&md5=RD7TM1wFoAhTidxjiHWdDw&user=49729ec489674ef3912b6d7cd0822923
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
-http://172.16.50.194:8081/live/mystream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bo0B6i9.png" group-title="server2",Banglavision
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTkys9t.png" group-title="server2",CHANNEL 24
