@@ -172,7 +172,7 @@ http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Leqpvxr.png" group-title="Documentary",discovary Bangla
-http://stream.dhakaflix.com:8081/live/discovary/chunks.m3u8
+http://65.2.4.240/jioo.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVp30Gy.png" group-title="Documentary",National Geo Bangla
 http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ectqbyl.png" group-title="Documentary",National Wild Hindi
@@ -186,13 +186,13 @@ http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaZwrpr.png" group-title="Sports",Bein Sports 1
 http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJ8kRLv.png" group-title="Sports",Sony Six HD
-http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPkRUxO.png" group-title="Sports",sony 1
-http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
+http://65.2.4.240/jioo.php?c=Ten_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png" group-title="Sports",sony 2
-http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8
+http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png" group-title="Sports",sony 3
-http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8
+http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png" group-title="Sports",star Sports2
 http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png" group-title="Sports",T Sports
