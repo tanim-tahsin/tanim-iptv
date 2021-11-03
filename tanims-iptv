@@ -34,7 +34,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7e9qU6d.png",deeptotv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png",G TV
-http://103.40.226.94:8080/hls/channel_1.m3u8
+https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDpgZ3H.png",Ekattor-tv
 https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sX9U7Y.png",Ekushey TV
@@ -108,17 +109,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VXJw6A.png",Ruposhi Bangla
 https://live.bongobd.com/hls/TX9liVVpYqjhze8ZrpkQMg/1632922528/ntv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpLcLxC.png" group-title="Iptv",Rang TV
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y76e6La.png",KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcdrWlJ.png",Enter 10 Bangla
@@ -148,7 +141,7 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png" group-title="Movies",jolshamovies
 http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21sr1tp.png" group-title="Movies",sonymax
-http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfri7KP.png" group-title="Movies",cinemaplex
 http://stream.dhakaflix.com:8081/live/cinemaplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9pdeVO.png" group-title="Movies",Star Gold HD
@@ -197,7 +190,8 @@ http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
 http://10.16.100.207:8082/sports/starsports_2_riptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png" group-title="Sports",T Sports
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png" group-title="Sports",T Sports
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UA6BNX9.png" group-title="Song",9X Jalwa 
@@ -212,9 +206,6 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVnH3gt.png" group-title="server2",G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635864086&md5=RD7TM1wFoAhTidxjiHWdDw&user=49729ec489674ef3912b6d7cd0822923
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bo0B6i9.png" group-title="server2",Banglavision
 http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
@@ -242,7 +233,6 @@ http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/AsianTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sX9U7Y.png" group-title="server2",Ekushey TV
 http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png" group-title="server2",zeebangla
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png" group-title="server2",colorsbangla
@@ -255,6 +245,9 @@ http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0r9Cwd.png" group-title="server2",Zee Cinema Bangla
 http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+
+gazi tv
+http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kw5ycfq.png" group-title="server2",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
