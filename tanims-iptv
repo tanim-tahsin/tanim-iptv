@@ -117,12 +117,17 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcdrWlJ.png",Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png" group-title="Indian Bangla",zeebangla
-http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8 
+http://edge.thunderbd.com:8081/roarzone/34/chunks.m3u8?nimblesessionid=5341042&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDM6NTYgQU0maGFzaF92YWx1ZT1uaWo1dTBQK1U0cWhqS3JocnQwdXhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png" group-title="Indian Bangla",colorsbangla
-http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8 
+http://edge.thunderbd.com:8081/roarzone/66/chunks.m3u8?nimblesessionid=5341030&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDI6MDEgQU0maGFzaF92YWx1ZT00V2ZEb0NuWWZtUU4vTVc3UU1DL0FnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BreYDZ.png" group-title="Indian Bangla",starjolsha
-http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=5341049&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDQ6MzAgQU0maGFzaF92YWx1ZT1zdlQrZ0YyaUp3dEFvdk1vbjRXY0xnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png",jolshamovies
+http://edge.thunderbd.com:8081/roarzone/31/chunks.m3u8?nimblesessionid=5341102&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDY6MjggQU0maGFzaF92YWx1ZT10bGw0enMweEdGL3oyRHpHUVJ0b2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0r9Cwd.png",Zee Cinema Bangla
+http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=5341057&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDU6MDggQU0maGFzaF92YWx1ZT03N1dyVWpZUHZ3cFdsZmtrSFpCK0hnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png" group-title="Indian Bangla",Sonyaath
 http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 
@@ -241,10 +246,6 @@ http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png" group-title="server2",Sonyaath
 http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png" group-title="server2",jolshamovies
-http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0r9Cwd.png" group-title="server2",Zee Cinema Bangla
-http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 
 gazi tv
 http://103.40.226.94:8080/hls/channel_1.m3u8
