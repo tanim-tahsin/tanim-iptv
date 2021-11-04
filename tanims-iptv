@@ -70,7 +70,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdFfN6O.png" group-title="Indian",zeebangla
-http://edge.thunderbd.com:8081/roarzone/34/chunks.m3u8?nimblesessionid=5341042&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDM6NTYgQU0maGFzaF92YWx1ZT1uaWo1dTBQK1U0cWhqS3JocnQwdXhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLTfB57.png" group-title="Indian",colorsbangla
 http://edge.thunderbd.com:8081/roarzone/66/chunks.m3u8?nimblesessionid=5341030&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDI6MDEgQU0maGFzaF92YWx1ZT00V2ZEb0NuWWZtUU4vTVc3UU1DL0FnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BreYDZ.png" group-title="Indian",starjolsha
@@ -78,7 +78,7 @@ http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=5341049&w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65ashGo.png" group-title="Indian",jolshamovies
 http://edge.thunderbd.com:8081/roarzone/31/chunks.m3u8?nimblesessionid=5341102&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDY6MjggQU0maGFzaF92YWx1ZT10bGw0enMweEdGL3oyRHpHUVJ0b2R3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0r9Cwd.png" group-title="Indian",Zee Cinema Bangla
-http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=5341057&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NDU6MDggQU0maGFzaF92YWx1ZT03N1dyVWpZUHZ3cFdsZmtrSFpCK0hnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pdk9o2U.png" group-title="Indian",Sonyaath
 http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 
@@ -187,13 +187,13 @@ http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaZwrpr.png" group-title="Sports",Bein Sports 1
 http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJ8kRLv.png" group-title="Sports",Sony Six HD
-http://edge.thunderbd.com:8081/roarzone/24/chunks.m3u8?nimblesessionid=5341344&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NTc6MzYgQU0maGFzaF92YWx1ZT1LOGRDY0dDN2dlcmdRM1ZIalRHMStnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPkRUxO.png" group-title="Sports",sony 1
 http://65.2.4.240/jioo.php?c=Ten_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhIOm04.png" group-title="Sports",sony 2
-http://edge.thunderbd.com:8081/roarzone/21/chunks.m3u8?nimblesessionid=5341359&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NTg6MTQgQU0maGFzaF92YWx1ZT0zWnozdU5HYkcxUEhzYkd2b08yTUZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9Tp7ZZ.png" group-title="Sports",sony 3
-http://edge.thunderbd.com:8081/roarzone/20/chunks.m3u8?nimblesessionid=5341352&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NTc6NTggQU0maGFzaF92YWx1ZT1xVllJdlFjanJTWGxnK0ZiVy9mUFFnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcHyqo4.png" group-title="Sports",star Sports2
 http://edge.thunderbd.com:8081/roarzone/25/chunks.m3u8?nimblesessionid=5341377&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIxIDY6NTk6MDIgQU0maGFzaF92YWx1ZT1nNXp2Tm00a3hrdmxIY25RSlVVS0lBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhXFevg.png" group-title="Sports",T Sports
